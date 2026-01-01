@@ -32,7 +32,7 @@
 | 카카오 | https://tech.kakao.com/blog/ |
 | 카카오스타일 | https://devblog.croquis.com/ko/ |
 | 카카오엔터프라이즈 | https://tech.kakaoenterprise.com/ |
-| 쿠팡 | https://medium.com/coupang-tech |
+| 쿠팡 | https://medium.com/coupang-engineering |
 | 클래스101 | https://medium.com/class101 |
 | 토스 | https://toss.tech/ |
 | 플라네타리움 | https://snack.planetarium.dev/kor/ |
